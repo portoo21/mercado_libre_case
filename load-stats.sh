@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Get processor info
+# Get processor information
 PROC_INFO=$(wmic cpu get caption, deviceid, name, numberofcores, maxclockspeed, status | tr '\r\n' ';')
 # Get task lsit
 TASK_LIST=$(tasklist | tr -d '\r\n')
