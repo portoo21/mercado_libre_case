@@ -25,6 +25,6 @@ chmod +x load-stats.sh
   procInfo: 'Caption                              DeviceID  MaxClockSpeed  Name                                     NumberOfCores  Status  ;;;AMD64 Family 25 Model 80 Stepping 0  CPU0      3301           AMD Ryzen 9 5900HX with Radeon Graphics  8              OK      ;;;;;;',
   taskList: 'Image Name                     PID Session Name        Session#    Mem Usage========================= ======== ================ =========== ============System Idle Process              0 Services                   0          8 KSystem                           4 Services                   0      3,332 KRegistry                       240 Services                   0     47,912",
   osVersion: 'Caption                    Version     ;;;Microsoft Windows 11 Home  10.0.22000  ;;;;;;',
-  currentUser: 'hersa'
+  currentUser: 'portoo'
 }
 ```
